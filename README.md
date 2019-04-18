@@ -1,4 +1,4 @@
-# V8
+# V8 AUR package
 V8 package for Archlinux
 
 ## Some notes
